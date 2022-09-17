@@ -1,0 +1,10 @@
+.foot{
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+}
+
+.foot2{
+    width: 1400px;
+    margin: 10px;
+}
